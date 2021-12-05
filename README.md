@@ -22,7 +22,7 @@
     > sudo make install
   + [Reference](#https://github.com/coin-or/CppAD)
 
-+ [Ipopt](#https://github.com/fight-ldr/ipopt_install)
++ ![Ipopt](https://github.com/fight-ldr/ipopt_install)
 
 ### Planning
 
