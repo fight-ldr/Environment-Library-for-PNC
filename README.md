@@ -20,7 +20,7 @@
     > sudo make
     >
     > sudo make install
-  + [Reference](#https://github.com/coin-or/CppAD)
+  + ![Reference](https://github.com/coin-or/CppAD)
 
 + ![Ipopt](https://github.com/fight-ldr/ipopt_install)
 
@@ -58,7 +58,7 @@
     >
     > sudo make install
     
-  + [Reference](#https://github.com/ceres-solver/ceres-solver)
+  + ![Reference](https://github.com/ceres-solver/ceres-solver)
 
 + Cassidi
 
