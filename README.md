@@ -59,7 +59,7 @@
     >
     > sudo make install
     
-  + ![Reference](https://github.com/ceres-solver/ceres-solver)
+  + [Reference](https://github.com/ceres-solver/ceres-solver)
 
 + Cassidi
 
